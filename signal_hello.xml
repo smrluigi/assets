@@ -1,3 +1,7 @@
 <Response>
   <Say>Welcome to SignalWire!</Say>
+  <Dial>
+    <!-- Number is an example of a Dial Noun -->
+    <Number>+14166022680</Number>
+  </Dial>
 </Response>
